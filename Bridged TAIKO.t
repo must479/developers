@@ -20,3 +20,22 @@ Discont
 €28.50
 €19,34
 $13,25 
+
+SafeStake Token (DVT) @261
+26,230,000 DVT
+
+STAKE TAIKO
+Taiko x Blazpay (TKBLZ) @307,221
+406,888 TKBLZ
+
+stETH Withdrawal NFT (unstETH)
+@1078
+
+PADI SWAP NEWS
+230,000,000 
+@6441
+
+wacana 
+T-4EVER
+
+
