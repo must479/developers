@@ -28,7 +28,7 @@ b4
 #################
 VESTING 3
 
-BUY HOLD BRIDGE TO 8 NETWORK
+BUY HOLD BRIDGE TO 7 NETWORK
 9,106,675 UNI /d0
 
 
@@ -40,13 +40,16 @@ BUY
 
 ###########
 
-700,000 
-800,000 
+PARIWISATA BALI
+700,000 JP HK
+800,000 JP SYDNEY
 
 
+BI SEMARANG
+500,000 RUPIAH 
 
-500,000 
-800,000 
+PIHAK 3 , 4 MATA
+800,000 RUPIAH 
 
 
 ###########
@@ -67,11 +70,10 @@ https://launchpad.ethereum.org
 
 84,940,924.7136372853992338 ETH TO 
 
+##################################№######################
+
 ADDRESS UNI [ETHEREUM]
 0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984
-
-ADDRESS UNI [UNICHAIN]
-0x8f187aA05619a017077f5308904739877ce9eA21
 
 ADDRESS UNI [POLYGON]
 0xb33EaAd8d922B1083446DC23f610c2567fB5180f
@@ -91,5 +93,33 @@ ADDRESS UNI [AVAX]
 ADDRESS UNI [BINANCE]
 0xbf5140a22578168fd562dccf235e5d43a02ce9b1
 
-#####################
+###############################################################
+
+DEVISA / PA H LAWA N
+
+VESTING 3
+VESTING 4
+
+
+
+TIMELOCK UNI / CADANGAN 
+0x1a9C8182C09F50C8318d769245beA52c32BE35BC
+
+SEND 
+
+ADDRESS UNI [UNICHAIN]
+0x8f187aA05619a017077f5308904739877ce9eA21
+
+TIME 
+29 JANUARI 2026
+
+29 MARET 2026
+
+27 JUNI 2026 
+
+
+##################################################################
+
+
+
 
