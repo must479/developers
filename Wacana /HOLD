@@ -144,12 +144,66 @@ MerkleDistributor
 
 
 #ETHGLOBAL #EG-HACKER #FREEZ #sybil-list 
+
+#######################################################
+
+#######   $$$$$$$$$$$$$   @         @
+#               $         @         @
+#               $         @         @
+######          $         @@@@@@@@@@@
+#               $         @         @
+#               $         @         @
+#######         $         @         @  [GLOBAL]
+
+
 #####################################################
 
+L1
 Transaksi warna kuning [BRIDGE] / EG-HACKER user
+0x8298b3cdadb5bda1fa8e0617919e516a50c92725fd4491c3863c45067b32d77f
+
+L1 
+ADDRESS
+0x2D815240A61731c75Fa01b2793E1D3eD09F289d0
+
+L1
+CONTRACT
+0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1
+
+################################################
+L2
+0x0a6b758381eefed8393ad715fe30620322df64db6f1f40d94cff42358d786eda
+
+L2
+0x0000000000000000000000000000000000000000
+
+L1 State Root Submission Tx Hash:
+0x494e1d9acd9e61c66cdcace24f3650037d1b83bccb1a6ae633aca257eda3ca99
+
+UTAMA ETHEREUM
+0x8298b3cdadb5bda1fa8e0617919e516a50c92725fd4491c3863c45067b32d77f
+
+L2
+0x2D815240A61731c75Fa01b2793E1D3eD09F289d0
+
+
+
+Optimism: L2 Cross Domain Messenger
+0x4200000000000000000000000000000000000007
+
+ L1 State Batch Index:
+21682 
+
+
+
+####################################
+
+BRIDGE ETH TO NETWORK OPTIMISM 
+
+Optimism: Gateway
 
 OPTIMISTIC 
-2,500,000 WETH 
+5,000,000 WETH 
 
 APPROVE
 
@@ -169,7 +223,7 @@ SYSMO 150,000 WETH / UNICHAIN
 515
 
 ADMIN [HOLD]
-1.750.000 WETH 
+4.250.000 WETH 
 
 ######################
 
