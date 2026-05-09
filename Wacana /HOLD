@@ -67,9 +67,6 @@ MONEY
 
 130,000,000 
 
-
-
-
 ###################
 5 USER CLAIM POOL
 
@@ -83,8 +80,8 @@ MONEY
 
 284,785,000 
 
-
-######################
+wait 
+############################################
 
 BASE 
 d0 
@@ -146,10 +143,35 @@ MerkleDistributor
 
 
 
-#ETHGLOBAL #EG-HACKER #
-#############################
+#ETHGLOBAL #EG-HACKER #FREEZ #sybil-list 
+#####################################################
 
+Transaksi warna kuning [BRIDGE] / EG-HACKER user
 
+OPTIMISTIC 
+2,500,000 WETH 
+
+APPROVE
+
+DHARMA 150,000 WETH / POLYGON ZKEVM 
+412
+
+BASE  150,000 WETH / BASE 
+6453
+
+HORSE 150,000 WETH / TAIKO 
+01253
+
+SYBIL DAO 150,000 WETH / OPBNB
+5161l
+
+SYSMO 150,000 WETH / UNICHAIN
+515
+
+ADMIN [HOLD]
+1.750.000 WETH 
+
+######################
 
 
 
